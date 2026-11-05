@@ -54,6 +54,22 @@ A simplified web-based quoting tool developed from a larger business automation 
 
 [Live App](https://uhuvcl.github.io/divano-orcador-gratis/orcador.html)
 
+**[Fervo Checkout — Demo](https://github.com/UHUvcl/fervo-checkout-demo)**
+
+An independent demo of a checkout and inventory management system inspired by a small food and beverage business. Includes a product catalog, cart, simulated orders, batches, sales, and stock tracking. Uses fictional data and performs no real transactions.
+
+`Next.js` · `React` · `TypeScript` · `Tailwind CSS`
+
+[Live Demo](https://uhuvcl.github.io/fervo-checkout-demo/)
+
+**[Clareza — Finance Demo](https://github.com/UHUvcl/clareza-demo)**
+
+An interactive personal finance management demo with dashboards, transactions, partial payments, budgets, and planning tools. Runs locally in the browser with fictional information and no financial integrations.
+
+`React` · `TypeScript` · `Vite` · `Recharts`
+
+[Live Demo](https://uhuvcl.github.io/clareza-demo/)
+
 ### Technologies and areas of interest
 
 **Languages:** Python, JavaScript, TypeScript
@@ -128,6 +144,22 @@ Ferramenta web simplificada, derivada de um projeto maior de automação comerci
 `JavaScript` · `HTML` · `CSS`
 
 [Experimentar orçador](https://uhuvcl.github.io/divano-orcador-gratis/orcador.html)
+
+**[Fervo Checkout — Demonstração](https://github.com/UHUvcl/fervo-checkout-demo)**
+
+Demonstração independente de um sistema de pedidos e controle de estoque inspirado nas necessidades de um pequeno negócio de alimentos e bebidas. Inclui cardápio, carrinho, pedidos simulados, lotes, vendas e estoque, sem transações reais.
+
+`Next.js` · `React` · `TypeScript` · `Tailwind CSS`
+
+[Experimentar demonstração](https://uhuvcl.github.io/fervo-checkout-demo/)
+
+**[Clareza — Gestão Financeira](https://github.com/UHUvcl/clareza-demo)**
+
+Demonstração de gestão financeira pessoal com dashboards, movimentações, recebimentos parciais, orçamentos e planejamento. Funciona no navegador com dados fictícios, sem integrações financeiras.
+
+`React` · `TypeScript` · `Vite` · `Recharts`
+
+[Experimentar demonstração](https://uhuvcl.github.io/clareza-demo/)
 
 ### Tecnologias e áreas de interesse
 
